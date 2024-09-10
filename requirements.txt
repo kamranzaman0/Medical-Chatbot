@@ -1,0 +1,12 @@
+pinecone-client[grpc]==3.2.2
+langchain-pinecone==0.1.2
+langchain==0.2.15
+ctransformers==0.2.5
+sentence-transformers==2.2.2
+langchain_community
+
+flask
+pypdf
+python-dotenv
+
+-e.
