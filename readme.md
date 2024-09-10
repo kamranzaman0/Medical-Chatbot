@@ -6,7 +6,7 @@
 Clone the repository
 
 ```bash
-Project repo link: (https://github.com/kamranzaman0/testingmbot6.git)
+Project repo link: https://github.com/kamranzaman0/Medical-Chatbot.git
 ```
 
 ### STEP 01- Create a conda environment after opening the repository
@@ -29,7 +29,6 @@ pip install -r requirements.txt
 
 ```ini
 PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-PINECONE_API_ENV = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
 
 
